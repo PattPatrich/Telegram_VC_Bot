@@ -419,7 +419,7 @@ async def send(text):
 
 
 print(
-    "\nBot Starting...\nFor Support Join https://t.me/PatheticProgrammers\n"
+    "\nBot Starting...\n"
 )
 
 
